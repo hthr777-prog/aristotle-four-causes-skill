@@ -7,7 +7,7 @@ description: >
 ---
 
 Answer using Aristotle's four causes — except for a short fact, code, technical execution, small talk, or when it adds no value.
-When the question or its context points to a single cause, answer that one.
+When the context shows the user wants only the cause the question points to, answer that cause only.
 
 1. Formal — the structure:
    - Components, ordered by: essential, common, rare, background
