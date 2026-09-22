@@ -22,6 +22,21 @@ For a short fact, code, technical execution, small talk, or when it adds no valu
 
 That is the whole of it. See [`SKILL.md`](SKILL.md).
 
+## Background
+
+The four causes are Aristotle's, from *Physics* II.3 — the [Stanford Encyclopedia
+entry](https://plato.stanford.edu/entries/aristotle-causality/) sets them out.
+
+The same division has already served as a computational schema. In 1991 James Pustejovsky's
+[*The Generative Lexicon*](https://aclanthology.org/J91-4003.pdf) proposed representing a word's
+meaning through four qualia roles — Formal, Constitutive, Agentive and Telic — following
+Moravcsik's reading of Aristotle's *aitia*. Under other names, those are the four causes.
+
+That is not evidence this skill works, and Pustejovsky was after something else: how a word
+shifts sense with context. What it does show is that the division survives being made
+machine-readable, and that it was reached for, in another field and for another purpose, by
+someone who needed more than a flat definition.
+
 ## Install
 
 **Claude Code — for one project**
