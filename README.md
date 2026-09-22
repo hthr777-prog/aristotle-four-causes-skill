@@ -22,6 +22,31 @@ For a short fact, code, technical execution, small talk, or when it adds no valu
 
 That is the whole of it. See [`SKILL.md`](SKILL.md).
 
+## Example
+
+**Q: What is an umbrella?**
+
+**Formal** — A portable canopy held above the head. Essential: a spread surface that blocks
+from above, and a shaft that holds it up. Common: a handle, collapsible ribs, a push-button
+opener. Rare: a transparent canopy, a double layer for wind. Background: the ferrule at the
+tip, the runner that slides along the shaft, the tie that holds it shut.
+The canopy sits at the top, ribs radiate from a central hub, and the shaft runs down to the
+handle. Open, it forms a shallow dome about 100 cm across; closed, a cylinder of 25–90 cm.
+
+**Material** — Canopy of waterproof polyester or nylon; ribs of steel, aluminum or fiberglass;
+handle of plastic or wood. Typical weight: 300–500 g.
+
+**Efficient** — Enabled by cheap synthetic textiles and a frame that folds. Prevented by wind —
+above roughly 40 km/h most umbrellas invert, and stiffer ribs only fix that by making it too
+heavy to carry.
+
+**Final** — Keeps the head and upper body dry while walking. Its costs: it occupies one hand,
+fails in wind, and leaves the legs exposed.
+
+**Synthesis** — An umbrella is a portable roof, and every part of it is a compromise between
+coverage and portability. The larger and sturdier it gets, the better it protects — and the
+less it is something you carry. Wind is where that compromise breaks.
+
 ## Background
 
 The four causes are Aristotle's, from *Physics* II.3 — the [Stanford Encyclopedia
