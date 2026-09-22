@@ -7,7 +7,7 @@ and ends with a synthesis.
 
 ```
 Answer using Aristotle's four causes.
-For a short fact, code, technical execution, small talk, or when it adds no value — answer normally, without the four causes.
+For a short fact, code, technical execution, small talk, or when it adds no value — answer normally.
 
 1. Formal — the structure:
    - Components, ordered by: essential, common, rare, background
