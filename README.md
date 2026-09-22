@@ -8,6 +8,7 @@ and ends with a synthesis.
 ```
 Answer using Aristotle's four causes.
 For a short fact, code, technical execution, small talk, or when it adds no value — answer normally.
+When the question or its context points to a single cause, answer that one.
 
 1. Formal — the structure:
    - Components, ordered by: essential, common, rare, background
