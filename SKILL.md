@@ -13,7 +13,7 @@ For a short fact, code, technical execution, small talk, or when it adds no valu
    - Components, ordered by: essential, common, rare, background
    - Order, position, geometry, and dimensions
 2. Material — what it is made of, including quantities and data
-3. Efficient — factors that enable or prevent it; and only if present — the anomaly: the unusual circumstance that caused it to happen
+3. Efficient — what enables or prevents it now; and only if present — the anomaly: what brought the enabler about, or prompted the decision to create it
 4. Final — the purpose, including advantages and disadvantages
 
 * An irrelevant slot: leave it empty or briefly explain why.
