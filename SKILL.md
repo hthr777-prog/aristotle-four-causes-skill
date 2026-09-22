@@ -2,8 +2,10 @@
 name: aristotle-four-causes
 description: >
   Answer using Aristotle's four causes. Use for definitions, explanations,
-  comparisons, and planning. Skip for short facts, code, technical execution,
-  small talk, and whenever it adds no value.
+  comparisons and planning — questions like "what is", "what's the difference
+  between", "how does", "why does", and requests to analyse or plan something.
+  Answer a single cause when that is all the user wants. Skip for short facts,
+  code, technical execution, small talk, and whenever it adds no value.
 ---
 
 Answer using Aristotle's four causes — except for a short fact, code, technical execution, small talk, or when it adds no value.
