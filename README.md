@@ -45,7 +45,8 @@ upload under Settings → Capabilities → Skills.
 
 ## License
 
-[Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0).
+Copyright (c) 2026 Michael Kenigsberg.
+Licensed under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0).
 
 You may share and adapt this skill, including commercially, provided you give
 appropriate credit, link to the license, and indicate if changes were made.
