@@ -50,5 +50,5 @@ upload under Settings → Capabilities → Skills.
 You may share and adapt this skill, including commercially, provided you give
 appropriate credit, link to the license, and indicate if changes were made.
 
-> Aristotle's Four Causes skill by hthr777, licensed under
+> Aristotle's Four Causes skill by Michael Konigsberg, licensed under
 > [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
