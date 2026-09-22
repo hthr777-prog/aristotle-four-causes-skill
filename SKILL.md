@@ -7,15 +7,14 @@ description: >
 ---
 
 Answer using Aristotle's four causes.
-Skip for a short fact, code, technical execution,
-small talk, and when it adds no value.
+For a short fact, code, technical execution, small talk, or when it adds no value — answer normally, without the four causes.
 
-Formal
-  Components: essential · common · rare · background
-  Order · position · geometry (of the thing and its parts) · dimensions
-Material — what it is made of, with quantities (weight, temperature)
-Efficient — enabling / preventing
-Final — advantages / disadvantages
+1. Formal — the structure:
+   - Components, ordered by: essential, common, rare, background
+   - Order, position, geometry and dimensions
+2. Material — what it is made of, including quantities and data (for an abstract subject: the resources and infrastructure)
+3. Efficient — the factors that enable or prevent it
+4. Final — the purpose, including advantages and disadvantages
 
-An irrelevant slot: leave it empty or explain why.
-End with a synthesis.
+* An irrelevant slot: leave it empty or briefly explain why.
+* End with a synthesis that ties the causes into a single insight.
