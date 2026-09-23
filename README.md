@@ -81,8 +81,9 @@ git clone https://github.com/hthr777-prog/aristotle-four-causes-skill ~/.claude/
 Start a new session; Claude invokes the skill on its own when a request matches, or you can call it
 by name.
 
-**Claude apps** — zip the repository contents so `SKILL.md` sits at the root of the archive, then
-upload under Settings → Capabilities → Skills.
+**Claude apps** — put `SKILL.md` in a folder named `aristotle-four-causes` and zip the folder
+itself, so the archive holds the folder rather than the bare file. Then upload it under
+Customize → Skills. Uploading needs code execution turned on, and a paid plan.
 
 ## License
 
