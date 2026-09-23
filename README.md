@@ -55,12 +55,14 @@ entry](https://plato.stanford.edu/entries/aristotle-causality/) sets them out.
 The same division has already served as a computational schema. In 1991 James Pustejovsky's
 [*The Generative Lexicon*](https://aclanthology.org/J91-4003.pdf) proposed representing a word's
 meaning through four qualia roles — Formal, Constitutive, Agentive and Telic — following
-Moravcsik's reading of Aristotle's *aitia*. Under other names, those are the four causes.
+Moravcsik's reading of Aristotle's *aitia*. Those roles map onto the four causes.
 
-That is not evidence this skill works, and Pustejovsky was after something else: how a word
-shifts sense with context. What it does show is that the division survives being made
-machine-readable, and that it was reached for, in another field and for another purpose, by
-someone who needed more than a flat definition.
+The resemblance stops at the slots. Pustejovsky wrote his into lexical entries, in advance, to
+explain how a word shifts sense with context; here they are filled on demand, for whatever the
+question happens to be about.
+
+That is not evidence the skill works. It only means the division has held up twice: once as
+philosophy, once as a schema someone tried to compute with.
 
 ## Install
 
